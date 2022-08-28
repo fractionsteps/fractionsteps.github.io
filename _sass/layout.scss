@@ -334,7 +334,8 @@ nav > ul li a:active {
 
 /* CSS */
 .testFlightButton {
-  display: inline;
+  margin-top: 8px;
+  display: flex;
   flex-direction: column;
   align-items: center;
   padding: 6px 14px;
