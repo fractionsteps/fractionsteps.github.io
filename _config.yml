@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Fraction Steps                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -47,11 +47,11 @@ features                                  :
     description                           : Fraction concepts are explained clearly and concisely 
     fontawesome_icon_name                 : check 
 
-  - title                                 : Each Time Unique with Shuffle 
-    description                           : Animations use different examples with shuffle feature
+  - title                                 : Each Time Unique 
+    description                           : Animations use different examples each time  
     fontawesome_icon_name                 : fingerprint
 
-  - title                                 : More Feature Coming
+  - title                                 : More Features Coming
     description                           : Stay tuned. 
     fontawesome_icon_name                 : moon 
 
