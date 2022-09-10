@@ -51,6 +51,10 @@ features                                  :
     description                           : Animations use different examples each time  
     fontawesome_icon_name                 : fingerprint
 
+  - title                                 : Audio Subtitles
+    description                           : Listen animation subtitles with Text-to-Speech feature
+    fontawesome_icon_name                 : volume-up
+
   - title                                 : More Features Coming
     description                           : Stay tuned. 
     fontawesome_icon_name                 : moon 
